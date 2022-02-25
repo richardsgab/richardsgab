@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-- 🌱 I’m currently learning Web Developement at BeCode.
+- 🌱 I have a platonic love with React but I'm in a PHP path
 
 <!--
 **richardsgab/richardsgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

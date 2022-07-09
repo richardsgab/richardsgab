@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-- 🌱 I have a platonic love with React but I'm in a PHP path
+- 🌱 I have a platonic love with Angular. I'll make the first move...
 
 <!--
 **richardsgab/richardsgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

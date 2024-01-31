@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-- 🌱 I have a platonic love with Angular. I'll make the first move...
+- Junior .Net Developper. Earthling in love.
 
 <!--
 **richardsgab/richardsgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
